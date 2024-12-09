@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 722458a2b8b1e3c488e58db35c0bc843
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - robotBody: {instanceID: 0}
+  - camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

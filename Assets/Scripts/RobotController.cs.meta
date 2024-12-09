@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 31e99b897a6fc9e409eeaf21d8702f4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftThrust: {fileID: 2810441734044623384, guid: 0d9779a6068ffd246a2c66212c4b5063, type: 3}
+  - rightThrust: {instanceID: 0}
+  - body: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
