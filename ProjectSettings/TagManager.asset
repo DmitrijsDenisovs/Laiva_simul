@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Green Buoy
+  - Red Buoy
+  - Yellow Buoy
   layers:
   - Default
   - TransparentFX
